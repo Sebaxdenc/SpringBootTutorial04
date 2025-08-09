@@ -17,7 +17,6 @@ Incluye funcionalidades para la administración de productos, gestión de usuari
 ## 📦 Características principales
 - Listado y búsqueda de productos.
 - Carrito de compras persistente.
-- Proceso de pago simulado.
 - Panel de administración para gestión de inventario.
 
 ---
